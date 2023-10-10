@@ -1,8 +1,8 @@
-public class Student {
+class Student {
     private int id;
     private String name;
     private String gender;
-    private String selectedCourse;
+    private Course selectedCourse;
 
     public Student(int id, String name, String gender) {
         this.id = id;
@@ -14,22 +14,24 @@ public class Student {
         return name;
     }
 
-    public String getSelectedCourse() {
+    public String getGender() {
+        return gender;
+    }
+
+    public Course getSelectedCourse() {
         return selectedCourse;
     }
 
-    public void selectCourse(String courseName) {
-        this.selectedCourse = courseName;
+    public void selectCourse(Course course) {
+        this.selectedCourse = course;
     }
 
     public void dropCourse() {
         this.selectedCourse = null;
     }
 
-    // 其他 getter 和 setter 方法
-
     @Override
     public String toString() {
-        return "Student [id=" + id + ", name=" + name + ", gender=" + gender + ", selectedCourse=" + selectedCourse + "]";
+        return "姓名：" + name + " 性别：" + gender + " 所选课程：" + selectedCourse.getName();
     }
 }
