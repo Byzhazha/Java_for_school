@@ -1,6 +1,6 @@
 package university;
 
-public class Student extends Person {
+public class Student extends src.university.Person {
     private Course selectedCourse;
     private boolean hasDroppedCourse; // 新的属性
 

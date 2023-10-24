@@ -1,4 +1,4 @@
-package university;
+package src.university;
 
 public class Person {
     private int id;

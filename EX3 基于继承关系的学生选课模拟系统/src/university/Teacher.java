@@ -1,7 +1,7 @@
 package university;
 
 public class
-Teacher extends Person {
+Teacher extends src.university.Person {
     private Course course;
 
     public Teacher(int id, String name, String gender) {
