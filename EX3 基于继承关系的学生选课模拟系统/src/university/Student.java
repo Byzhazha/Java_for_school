@@ -1,8 +1,8 @@
 package university;
 
-public class Student extends src.university.Person {
+public class Student extends Person {
     private Course selectedCourse;
-    private boolean hasDroppedCourse; // 新的属性
+    private boolean hasDroppedCourse = false; // 显式初始化为 false
 
     public Student(int id, String name, String gender) {
         super(id, name, gender);

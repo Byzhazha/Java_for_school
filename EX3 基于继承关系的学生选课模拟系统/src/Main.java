@@ -1,4 +1,6 @@
-import university.*;
+import university.Course;
+import university.Student;
+import university.Teacher;
 
 public class Main {
     public static void main(String[] args) {

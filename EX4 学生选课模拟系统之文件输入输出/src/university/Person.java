@@ -1,6 +1,9 @@
 package university;
-public class Person {
-    private int id;
+
+import java.io.Serializable;
+
+public class Person implements Serializable {
+    public int id;
     private String name;
     private String gender;
 
@@ -8,6 +11,10 @@ public class Person {
         this.id = id;
         this.name = name;
         this.gender = gender;
+    }
+
+    public int getId() {
+        return id;
     }
 
     public String getName() {

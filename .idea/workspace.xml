@@ -5,19 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c32072-3ad9-4420-9aca-bfbf6c000ee3" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Homework/homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Dormitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/DormitoryManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/EX3 基于继承关系的学生选课模拟系统1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/EX4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/src/university/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/src/university/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/src/university/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/src/university/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_selection.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/EX3 基于继承关系的学生选课模拟系统.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/EX3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/src/university/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java for school.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java for school.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/实验三  基于继承关系改进学生选课模拟系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/实验三  基于继承关系改进学生选课模拟系统.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2VtWfHruzpazRGY1vSCuWCIifhE" />
   <component name="ProjectLevelVcsManager">
@@ -61,24 +64,47 @@
     "ToolWindow运行.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/java for school/EX4 学生选课模拟系统之文件输入输出",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "工件",
+    "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files"
+    "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java for school\EX4 学生选课模拟系统之文件输入输出" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java for school\EX3" />
       <recent name="D:\java for school\untitled\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Main">
+  <component name="RunManager" selected="应用程序.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="EX4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ex2" />
+      <module name="EX3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main111" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java for school" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -154,16 +180,18 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="应用程序.Main111" />
+      <item itemvalue="应用程序.Main (1)" />
       <item itemvalue="应用程序.main.Main" />
       <item itemvalue="应用程序.Main" />
       <item itemvalue="应用程序.Main12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main (1)" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.Main12" />
         <item itemvalue="应用程序.main.Main" />
-        <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
@@ -193,7 +221,12 @@
       <workItem from="1698052007481" duration="3998000" />
       <workItem from="1698063966354" duration="4109000" />
       <workItem from="1698133198945" duration="1785000" />
-      <workItem from="1698135039421" duration="2844000" />
+      <workItem from="1698135039421" duration="3034000" />
+      <workItem from="1698147902139" duration="498000" />
+      <workItem from="1698148422229" duration="548000" />
+      <workItem from="1698148974959" duration="48000" />
+      <workItem from="1698149033725" duration="1368000" />
+      <workItem from="1699266897116" duration="3769000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1695655985187</created>
@@ -265,7 +298,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698067658887</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1698138456951</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698138456951</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit">
+      <created>1698138468760</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698138468760</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
