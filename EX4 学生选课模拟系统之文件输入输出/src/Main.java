@@ -17,7 +17,7 @@ public class Main {
         Course historyCourse = new Course(2002, "中国近代史纲要", "教205", "周二 3:30 PM", teacher2);
         teacher2.setCourse(historyCourse);
         student2.selectCourse(historyCourse);
-        student1 .dropCourse();
+//        student1 .dropCourse();
         // 保存选课结果到文件
         saveCourseSelection("course_selection.txt", student1, student2);
 
@@ -54,7 +54,7 @@ public class Main {
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] parts = line.split("\\|");
-                if (parts.length >= 8) {
+                if (parts.length >= 5) {
                     int id = Integer.parseInt(parts[0]);
                     String name = parts[1];
                     String gender = parts[2];
