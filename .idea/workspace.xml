@@ -1,29 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="44c32072-3ad9-4420-9aca-bfbf6c000ee3" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/实验四 学生选课模拟系统之文件输入输出.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/正常选课.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/退课.png" afterDir="false" />
+    <list default="true" id="5f2d113d-24f4-451b-a427-0d99809a09e4" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/dorm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/dorm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/dormarrangement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/dormeval.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/dorminfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/dormwarn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/gjcx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/Arrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/Dorm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/DormEval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/DormEvalMange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/DormIo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/DormMange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/DormWarnMange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/Dormarrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/Dormwarn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/src/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/warn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/主页面.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dorm/课设 学生宿舍管理系统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/实验三  基于继承关系改进学生选课模拟系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/EX3 基于继承关系的学生选课模拟系统/实验三  基于继承关系改进学生选课模拟系统.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EX4 学生选课模拟系统之文件输入输出/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_selection.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course_selection.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java for school.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +50,7 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectId" id="2VtWfHruzpazRGY1vSCuWCIifhE" />
+  <component name="ProjectId" id="2YWXXAJgU8iacB3uWnqccTerpVf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -42,42 +58,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java for school/EX4 学生选课模拟系统之文件输入输出&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java for school\EX4 学生选课模拟系统之文件输入输出" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java for school\EX3" />
-      <recent name="D:\java for school\untitled\src" />
+      <recent name="D:\java for school" />
+      <recent name="D:\java for school\dorm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.DormIo">
+    <configuration name="DormIo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EX4" />
+      <option name="MAIN_CLASS_NAME" value="DormIo" />
+      <module name="dorm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,51 +90,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EX3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main111" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java for school" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main12" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EX3 基于继承关系的学生选课模拟系统" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EX3 基于继承关系的学生选课模拟系统" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EX2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ex2" />
-      <option name="PROGRAM_PARAMETERS" value="main" />
+      <module name="EX4 学生选课模拟系统之文件输入输出" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,51 +98,19 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="EX3 基于继承关系的学生选课模拟系统" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="java for school" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java for school" />
-      <option name="filePath" />
+      <option name="MAIN_CLASS_NAME" value="DormIo" />
+      <module name="dorm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.Main111" />
-      <item itemvalue="应用程序.Main (1)" />
-      <item itemvalue="应用程序.main.Main" />
+      <item itemvalue="应用程序.DormIo" />
       <item itemvalue="应用程序.Main" />
-      <item itemvalue="应用程序.Main12" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Main (1)" />
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.Main12" />
-        <item itemvalue="应用程序.main.Main" />
+        <item itemvalue="应用程序.DormIo" />
         <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
@@ -190,128 +118,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="44c32072-3ad9-4420-9aca-bfbf6c000ee3" name="变更" comment="" />
-      <created>1695655961055</created>
+      <changelist id="5f2d113d-24f4-451b-a427-0d99809a09e4" name="变更" comment="" />
+      <created>1700642346797</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695655961055</updated>
-      <workItem from="1695655963101" duration="130000" />
-      <workItem from="1696769008018" duration="2040000" />
-      <workItem from="1696771693730" duration="801000" />
-      <workItem from="1696772510868" duration="2631000" />
-      <workItem from="1696855972900" duration="3037000" />
-      <workItem from="1696859085870" duration="687000" />
-      <workItem from="1696859788825" duration="515000" />
-      <workItem from="1696904395598" duration="1351000" />
-      <workItem from="1696905774277" duration="1111000" />
-      <workItem from="1696906908381" duration="481000" />
-      <workItem from="1696907407304" duration="1861000" />
-      <workItem from="1696922535519" duration="5672000" />
-      <workItem from="1697032026908" duration="669000" />
-      <workItem from="1697528227503" duration="5187000" />
-      <workItem from="1698052007481" duration="3998000" />
-      <workItem from="1698063966354" duration="4109000" />
-      <workItem from="1698133198945" duration="1785000" />
-      <workItem from="1698135039421" duration="3034000" />
-      <workItem from="1698147902139" duration="498000" />
-      <workItem from="1698148422229" duration="548000" />
-      <workItem from="1698148974959" duration="48000" />
-      <workItem from="1698149033725" duration="1368000" />
-      <workItem from="1699266897116" duration="3769000" />
-      <workItem from="1699271412930" duration="3662000" />
+      <updated>1700642346797</updated>
+      <workItem from="1700642349034" duration="84000" />
+      <workItem from="1700642434423" duration="20000" />
+      <workItem from="1700642464210" duration="1319000" />
+      <workItem from="1700650482971" duration="445000" />
+      <workItem from="1700650960032" duration="77000" />
+      <workItem from="1700651104566" duration="45000" />
+      <workItem from="1701699853334" duration="18000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <created>1695655985187</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1695655985187</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial commit">
-      <created>1696859573638</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1696859573638</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial commit">
-      <created>1696927893130</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1696927893130</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Initial commit">
-      <created>1696927973604</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1696927973604</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Initial commit">
-      <created>1696928086415</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1696928086415</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Initial commit">
-      <created>1696928451476</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1696928451476</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Initial commit">
-      <created>1698067265752</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1698067265752</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Initial commit">
-      <created>1698067488252</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1698067488252</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Initial commit">
-      <created>1698067611296</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1698067611296</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Initial commit">
-      <created>1698067658887</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1698067658887</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Initial commit">
-      <created>1698138456951</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1698138456951</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Initial commit">
-      <created>1698138468760</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1698138468760</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Initial commit">
-      <created>1699271429365</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1699271429365</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,7 +149,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
